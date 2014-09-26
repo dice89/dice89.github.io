@@ -109,22 +109,22 @@ module.directive("items",
 
                     $scope.elements = [{
                         name: "Zuchini",
-                        image: "/img/paprika_test.jpg"
+                        image: "img/paprika_test.jpg"
                     }, {
                         name: "Pepper",
-                        image: "/img/paprika_test.jpg"
+                        image: "img/paprika_test.jpg"
                     }, {
                         name: "Mushrooms",
-                        image: "/img/paprika_test.jpg"
+                        image: "img/paprika_test.jpg"
                     }, {
                         name: "Cat",
-                        image: "/img/paprika_test.jpg"
+                        image: "img/paprika_test.jpg"
                     }, {
                         name: "Dodo",
-                        image: "/img/paprika_test.jpg"
+                        image: "img/paprika_test.jpg"
                     }, {
                         name: "Dog",
-                        image: "/img/paprika_test.jpg"
+                        image: "img/paprika_test.jpg"
                     }];
 
 
